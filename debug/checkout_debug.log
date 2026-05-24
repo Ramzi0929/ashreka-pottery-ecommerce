@@ -1,0 +1,82 @@
+=== CHECKOUT MONITOR STARTED ===
+[2025-12-27 16:03:29] 🚀 STARTING FULL CHECKOUT TEST
+[2025-12-27 16:03:29] 🧪 CHECKING SERVER CONFIGURATION
+[2025-12-27 16:03:29] PHP Version: 7.4.9
+[2025-12-27 16:03:29] Upload max filesize: 40M
+[2025-12-27 16:03:29] Post max size: 40M
+[2025-12-27 16:03:29] Memory limit: 512M
+[2025-12-27 16:03:29] Max execution time: 120
+[2025-12-27 16:03:29] ✅ Extension curl loaded
+[2025-12-27 16:03:29] ✅ Extension gd loaded
+[2025-12-27 16:03:29] ✅ Extension pdo_mysql loaded
+[2025-12-27 16:03:29] ✅ Extension openssl loaded
+[2025-12-27 16:03:29] ✅ Directory ../uploads/ is writable
+[2025-12-27 16:03:29] ✅ Directory ../uploads/receipts/ is writable
+[2025-12-27 16:03:29] 🧪 CHECKING DATABASE STATE
+[2025-12-27 16:03:29] Recent orders (last hour): 4
+[2025-12-27 16:03:29] Recent confirmations (last hour): 1
+[2025-12-27 16:03:29] Recent confirmation: ID=12, Code=113561, Status=pending
+[2025-12-27 16:03:29] 🧪 TESTING ORDER CREATION
+[2025-12-27 16:03:29] Orders API output: {"success":false,"message":"Invalid request method"}
+[2025-12-27 16:03:29] ❌ ORDER CREATION FAILED: Invalid request method
+[2025-12-27 16:03:29] 🧪 TESTING EMAIL SENDING
+[2025-12-27 16:03:29] POST data: {"action":"send_payment_instructions","order_id":99999,"email":"test@example.com","phone":"+251912345678","payment_method":"telebirr","total_amount":100}
+=== CHECKOUT MONITOR STARTED ===
+[2025-12-27 16:03:38] 🧪 CHECKING SERVER CONFIGURATION
+[2025-12-27 16:03:38] PHP Version: 7.4.9
+[2025-12-27 16:03:38] Upload max filesize: 40M
+[2025-12-27 16:03:38] Post max size: 40M
+[2025-12-27 16:03:38] Memory limit: 512M
+[2025-12-27 16:03:38] Max execution time: 120
+[2025-12-27 16:03:38] ✅ Extension curl loaded
+[2025-12-27 16:03:38] ✅ Extension gd loaded
+[2025-12-27 16:03:38] ✅ Extension pdo_mysql loaded
+[2025-12-27 16:03:38] ✅ Extension openssl loaded
+[2025-12-27 16:03:38] ✅ Directory ../uploads/ is writable
+[2025-12-27 16:03:38] ✅ Directory ../uploads/receipts/ is writable
+=== CHECKOUT MONITOR STARTED ===
+[2025-12-27 16:03:46] 🚀 STARTING FULL CHECKOUT TEST
+[2025-12-27 16:03:46] 🧪 CHECKING SERVER CONFIGURATION
+[2025-12-27 16:03:46] PHP Version: 7.4.9
+[2025-12-27 16:03:46] Upload max filesize: 40M
+[2025-12-27 16:03:46] Post max size: 40M
+[2025-12-27 16:03:46] Memory limit: 512M
+[2025-12-27 16:03:46] Max execution time: 120
+[2025-12-27 16:03:46] ✅ Extension curl loaded
+[2025-12-27 16:03:46] ✅ Extension gd loaded
+[2025-12-27 16:03:46] ✅ Extension pdo_mysql loaded
+[2025-12-27 16:03:46] ✅ Extension openssl loaded
+[2025-12-27 16:03:46] ✅ Directory ../uploads/ is writable
+[2025-12-27 16:03:46] ✅ Directory ../uploads/receipts/ is writable
+[2025-12-27 16:03:46] 🧪 CHECKING DATABASE STATE
+[2025-12-27 16:03:46] Recent orders (last hour): 4
+[2025-12-27 16:03:46] Recent confirmations (last hour): 1
+[2025-12-27 16:03:46] Recent confirmation: ID=12, Code=113561, Status=pending
+[2025-12-27 16:03:46] 🧪 TESTING ORDER CREATION
+[2025-12-27 16:03:46] Orders API output: {"success":false,"message":"Invalid request method"}
+[2025-12-27 16:03:46] ❌ ORDER CREATION FAILED: Invalid request method
+[2025-12-27 16:03:46] 🧪 TESTING EMAIL SENDING
+[2025-12-27 16:03:46] POST data: {"action":"send_payment_instructions","order_id":99999,"email":"test@example.com","phone":"+251912345678","payment_method":"telebirr","total_amount":100}
+=== CHECKOUT MONITOR STARTED ===
+[2025-12-27 16:04:01] 🚀 STARTING FULL CHECKOUT TEST
+[2025-12-27 16:04:01] 🧪 CHECKING SERVER CONFIGURATION
+[2025-12-27 16:04:01] PHP Version: 7.4.9
+[2025-12-27 16:04:01] Upload max filesize: 40M
+[2025-12-27 16:04:01] Post max size: 40M
+[2025-12-27 16:04:01] Memory limit: 512M
+[2025-12-27 16:04:01] Max execution time: 120
+[2025-12-27 16:04:01] ✅ Extension curl loaded
+[2025-12-27 16:04:01] ✅ Extension gd loaded
+[2025-12-27 16:04:01] ✅ Extension pdo_mysql loaded
+[2025-12-27 16:04:01] ✅ Extension openssl loaded
+[2025-12-27 16:04:01] ✅ Directory ../uploads/ is writable
+[2025-12-27 16:04:01] ✅ Directory ../uploads/receipts/ is writable
+[2025-12-27 16:04:01] 🧪 CHECKING DATABASE STATE
+[2025-12-27 16:04:01] Recent orders (last hour): 4
+[2025-12-27 16:04:01] Recent confirmations (last hour): 1
+[2025-12-27 16:04:01] Recent confirmation: ID=12, Code=113561, Status=pending
+[2025-12-27 16:04:01] 🧪 TESTING ORDER CREATION
+[2025-12-27 16:04:01] Orders API output: {"success":false,"message":"Invalid request method"}
+[2025-12-27 16:04:01] ❌ ORDER CREATION FAILED: Invalid request method
+[2025-12-27 16:04:01] 🧪 TESTING EMAIL SENDING
+[2025-12-27 16:04:01] POST data: {"action":"send_payment_instructions","order_id":99999,"email":"test@example.com","phone":"+251912345678","payment_method":"telebirr","total_amount":100}

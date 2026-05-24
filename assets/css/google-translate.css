@@ -1,0 +1,49 @@
+/* Google Translate Widget Styling */
+#google_translate_element {
+    position: fixed !important;
+    top: 10px !important;
+    right: 10px !important;
+    z-index: 9999 !important;
+    background: rgba(0,0,0,0.8) !important;
+    border-radius: 5px !important;
+    padding: 5px !important;
+}
+
+#google_translate_element select {
+    background: #333 !important;
+    color: white !important;
+    border: none !important;
+    padding: 3px 8px !important;
+    border-radius: 3px !important;
+    font-size: 12px !important;
+    max-width: 80px !important;
+}
+
+.goog-te-gadget {
+    font-size: 0 !important;
+}
+
+.goog-te-gadget .goog-te-combo {
+    margin: 0 !important;
+    font-size: 12px !important;
+    max-width: 80px !important;
+}
+
+.goog-te-banner-frame {
+    display: none !important;
+}
+
+body {
+    top: 0 !important;
+}
+
+.goog-te-gadget-simple {
+    background: transparent !important;
+    border: none !important;
+    font-size: 12px !important;
+}
+
+.goog-te-gadget-simple .goog-te-menu-value {
+    color: white !important;
+    font-size: 12px !important;
+}

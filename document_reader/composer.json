@@ -1,0 +1,13 @@
+{
+    "name": "heritage/document-reader",
+    "description": "Document reading functionality for heritage system",
+    "require": {
+        "smalot/pdfparser": "^2.12",
+        "phpoffice/phpword": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Heritage\\DocumentReader\\": "src/"
+        }
+    }
+}

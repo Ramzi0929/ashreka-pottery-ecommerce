@@ -1,0 +1,156 @@
+/* Additional Ethiopian Cultural Styles */
+
+/* Rating Stars */
+.rating i {
+    color: #dee2e6;
+    cursor: pointer;
+    font-size: 1.5rem;
+    margin-right: 5px;
+    transition: color 0.2s;
+}
+
+.rating i:hover,
+.rating i.active {
+    color: #ffc107;
+}
+
+/* Timeline Styles */
+.timeline {
+    position: relative;
+    padding-left: 30px;
+}
+
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 15px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: #dee2e6;
+}
+
+.timeline-item {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.timeline-marker {
+    position: absolute;
+    left: -22px;
+    top: 5px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+}
+
+.timeline-content {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+/* Stock indicator */
+.stock-indicator {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.stock-high { background-color: #28a745; }
+.stock-medium { background-color: #ffc107; }
+.stock-low { background-color: #dc3545; }
+
+/* Ethiopian flag colors accent */
+.flag-accent {
+    border-left: 3px solid #009639;
+    border-right: 3px solid #FFCD00;
+    border-bottom: 3px solid #EF2118;
+}
+
+/* Ethiopian Cultural Elements */
+.bg-ethiopian {
+    background: linear-gradient(135deg, #8B4513 0%, #D2691E 100%);
+}
+
+.text-ethiopian {
+    color: #8B4513;
+}
+
+.btn-gold {
+    background-color: #D2691E;
+    border-color: #D2691E;
+    color: white;
+}
+
+.btn-gold:hover {
+    background-color: #B8860B;
+    border-color: #B8860B;
+    color: white;
+}
+
+.card-ethiopian {
+    border-left: 4px solid #D2691E;
+    background: linear-gradient(to right, #FFF8DC, #FFFFFF);
+}
+
+/* Amharic Font Support */
+.amharic-text {
+    font-family: 'Noto Sans Ethiopic', 'Nyala', serif;
+    direction: ltr;
+}
+
+/* Cultural Patterns */
+.pattern-bg {
+    background-image: 
+        radial-gradient(circle at 25% 25%, #D2691E 2px, transparent 2px),
+        radial-gradient(circle at 75% 75%, #8B4513 2px, transparent 2px);
+    background-size: 50px 50px;
+    background-position: 0 0, 25px 25px;
+}
+
+/* Notification Styles */
+.notification-badge {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background: #dc3545;
+    color: white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Toast Notifications */
+.toast-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1055;
+}
+
+.toast-ethiopian {
+    border-left: 4px solid #D2691E;
+}
+
+/* Mobile Timeline Adjustments */
+@media (max-width: 768px) {
+    .timeline {
+        padding-left: 20px;
+    }
+    
+    .timeline::before {
+        left: 10px;
+    }
+    
+    .timeline-marker {
+        left: -17px;
+    }
+}

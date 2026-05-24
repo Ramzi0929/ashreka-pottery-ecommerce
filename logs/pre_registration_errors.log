@@ -1,0 +1,703 @@
+[20-Dec-2025 22:24:36 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 22:24:36 Europe/Berlin] POST Data: {"action":"send_pre_registration_otp","name":"Test User","father_name":"Test Father","grandfather_name":"Test Grandfather","contact_type":"email","contact_value":"ethiopianartinfinite@gmail.com"}
+[20-Dec-2025 22:24:36 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[20-Dec-2025 22:24:36 Europe/Berlin] Pre-registration OTP request: Test User, email: ethiopianartinfinite@gmail.com
+[20-Dec-2025 22:36:25 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 22:36:25 Europe/Berlin] POST Data: {"name":" New Test User","father_name":"Test Father","grandfather_name":"Test Grandfather","action":"send_pre_registration_otp","contact_type":"email","contact_value":"microsoftt333@gmail.com"}
+[20-Dec-2025 22:36:25 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[20-Dec-2025 22:36:25 Europe/Berlin] Pre-registration OTP request: New Test User, email: microsoftt333@gmail.com
+[20-Dec-2025 22:36:25 Europe/Berlin] Generated OTP: 275061 for microsoftt333@gmail.com
+[20-Dec-2025 22:36:31 Europe/Berlin] ✅ Pre-registration email sent to: microsoftt333@gmail.com
+[20-Dec-2025 22:36:31 Europe/Berlin] Email sent: YES
+[20-Dec-2025 22:36:55 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 22:36:55 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"microsoftt333@gmail.com","otp":"275061"}
+[20-Dec-2025 22:36:55 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[20-Dec-2025 22:36:55 Europe/Berlin] Verify pre-registration OTP: contact=microsoftt333@gmail.com
+[20-Dec-2025 22:39:45 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 22:39:45 Europe/Berlin] POST Data: {"name":"abebe","father_name":"aby","grandfather_name":"si","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[20-Dec-2025 22:39:45 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[20-Dec-2025 22:39:45 Europe/Berlin] Pre-registration OTP request: abebe, phone: 0935714446
+[20-Dec-2025 22:39:45 Europe/Berlin] Generated OTP: 306754 for 0935714446
+[20-Dec-2025 22:39:56 Europe/Berlin] SMS Error: Operation timed out after 10011 milliseconds with 0 bytes received
+[20-Dec-2025 22:39:56 Europe/Berlin] SMS sent: NO
+[20-Dec-2025 22:40:16 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 22:40:16 Europe/Berlin] POST Data: {"name":"abebe","father_name":"aby","grandfather_name":"si","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[20-Dec-2025 22:40:16 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[20-Dec-2025 22:40:16 Europe/Berlin] Pre-registration OTP request: abebe, phone: 0935714446
+[20-Dec-2025 22:40:16 Europe/Berlin] Generated OTP: 720235 for 0935714446
+[20-Dec-2025 22:40:26 Europe/Berlin] SMS Error: Operation timed out after 10002 milliseconds with 0 bytes received
+[20-Dec-2025 22:40:26 Europe/Berlin] SMS sent: NO
+[20-Dec-2025 22:41:01 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 22:41:01 Europe/Berlin] POST Data: {"name":"abebe","father_name":"aby","grandfather_name":"si","action":"send_pre_registration_otp","contact_type":"email","contact_value":"microsoftt333@gmail.com"}
+[20-Dec-2025 22:41:01 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[20-Dec-2025 22:41:01 Europe/Berlin] Pre-registration OTP request: abebe, email: microsoftt333@gmail.com
+[20-Dec-2025 22:41:01 Europe/Berlin] Generated OTP: 625529 for microsoftt333@gmail.com
+[20-Dec-2025 22:41:05 Europe/Berlin] ✅ Pre-registration email sent to: microsoftt333@gmail.com
+[20-Dec-2025 22:41:05 Europe/Berlin] Email sent: YES
+[20-Dec-2025 22:42:04 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 22:42:04 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"microsoftt333@gmail.com","otp":"275061"}
+[20-Dec-2025 22:42:04 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[20-Dec-2025 22:42:04 Europe/Berlin] Verify pre-registration OTP: contact=microsoftt333@gmail.com
+[20-Dec-2025 22:42:12 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 22:42:12 Europe/Berlin] POST Data: {"name":"abebe","father_name":"aby","grandfather_name":"si","action":"send_pre_registration_otp","contact_type":"email","contact_value":"microsoftt333@gmail.com"}
+[20-Dec-2025 22:42:12 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[20-Dec-2025 22:42:12 Europe/Berlin] Pre-registration OTP request: abebe, email: microsoftt333@gmail.com
+[20-Dec-2025 22:42:12 Europe/Berlin] Generated OTP: 958418 for microsoftt333@gmail.com
+[20-Dec-2025 22:42:15 Europe/Berlin] ✅ Pre-registration email sent to: microsoftt333@gmail.com
+[20-Dec-2025 22:42:15 Europe/Berlin] Email sent: YES
+[20-Dec-2025 22:42:41 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 22:42:41 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"microsoftt333@gmail.com","otp":"958418"}
+[20-Dec-2025 22:42:41 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[20-Dec-2025 22:42:41 Europe/Berlin] Verify pre-registration OTP: contact=microsoftt333@gmail.com
+[20-Dec-2025 23:02:41 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 23:02:41 Europe/Berlin] POST Data: {"name":"natnael","father_name":"abyot","grandfather_name":"siyum","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[20-Dec-2025 23:02:41 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[20-Dec-2025 23:02:41 Europe/Berlin] Pre-registration OTP request: natnael, phone: 0935714446
+[20-Dec-2025 23:02:41 Europe/Berlin] Generated OTP: 981874 for 0935714446
+[20-Dec-2025 23:02:43 Europe/Berlin] SMS to +251935714446: HTTP 201
+[20-Dec-2025 23:02:43 Europe/Berlin] SMS sent: NO
+[20-Dec-2025 23:03:10 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 23:03:10 Europe/Berlin] POST Data: {"name":"natnael","father_name":"abyot","grandfather_name":"siyum","action":"send_pre_registration_otp","contact_type":"email","contact_value":"microsoftt333@gmail.com"}
+[20-Dec-2025 23:03:10 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[20-Dec-2025 23:03:10 Europe/Berlin] Pre-registration OTP request: natnael, email: microsoftt333@gmail.com
+[20-Dec-2025 23:03:10 Europe/Berlin] Generated OTP: 512667 for microsoftt333@gmail.com
+[20-Dec-2025 23:03:14 Europe/Berlin] ✅ Pre-registration email sent to: microsoftt333@gmail.com
+[20-Dec-2025 23:03:14 Europe/Berlin] Email sent: YES
+[20-Dec-2025 23:04:10 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 23:04:10 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"microsoftt333@gmail.com","otp":"512667"}
+[20-Dec-2025 23:04:10 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[20-Dec-2025 23:04:10 Europe/Berlin] Verify pre-registration OTP: contact=microsoftt333@gmail.com
+[20-Dec-2025 23:10:24 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 23:10:24 Europe/Berlin] POST Data: {"name":"natnael1","father_name":"abyot1","grandfather_name":"siyum1","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[20-Dec-2025 23:10:24 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[20-Dec-2025 23:10:24 Europe/Berlin] Pre-registration OTP request: natnael1, phone: 0935714446
+[20-Dec-2025 23:10:24 Europe/Berlin] Generated OTP: 605285 for 0935714446
+[20-Dec-2025 23:10:28 Europe/Berlin] SMS to +251935714446: HTTP 201
+[20-Dec-2025 23:10:28 Europe/Berlin] SMS sent: NO
+[20-Dec-2025 23:10:42 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 23:10:42 Europe/Berlin] POST Data: {"name":"natnael1","father_name":"abyot1","grandfather_name":"siyum1","action":"send_pre_registration_otp","contact_type":"email","contact_value":"microsoftt333@gmail.com"}
+[20-Dec-2025 23:10:42 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[20-Dec-2025 23:10:42 Europe/Berlin] Pre-registration OTP request: natnael1, email: microsoftt333@gmail.com
+[20-Dec-2025 23:10:42 Europe/Berlin] Generated OTP: 732845 for microsoftt333@gmail.com
+[20-Dec-2025 23:10:47 Europe/Berlin] ✅ Pre-registration email sent to: microsoftt333@gmail.com
+[20-Dec-2025 23:10:47 Europe/Berlin] Email sent: YES
+[20-Dec-2025 23:11:08 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 23:11:08 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"microsoftt333@gmail.com","otp":"732845"}
+[20-Dec-2025 23:11:08 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[20-Dec-2025 23:11:08 Europe/Berlin] Verify pre-registration OTP: contact=microsoftt333@gmail.com
+[20-Dec-2025 23:54:15 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 23:54:15 Europe/Berlin] POST Data: {"name":"customer","father_name":"fcustomer","grandfather_name":"gcustomer","action":"send_pre_registration_otp","contact_type":"email","contact_value":"microsoftt333@gmail.com"}
+[20-Dec-2025 23:54:15 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[20-Dec-2025 23:54:15 Europe/Berlin] Pre-registration OTP request: customer, email: microsoftt333@gmail.com
+[20-Dec-2025 23:54:49 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 23:54:49 Europe/Berlin] POST Data: {"name":"customer","father_name":"fcustomer","grandfather_name":"gcustomer","action":"send_pre_registration_otp","contact_type":"email","contact_value":"microsoftt333@gmail.com"}
+[20-Dec-2025 23:54:49 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[20-Dec-2025 23:54:49 Europe/Berlin] Pre-registration OTP request: customer, email: microsoftt333@gmail.com
+[20-Dec-2025 23:56:44 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 23:56:44 Europe/Berlin] POST Data: {"name":"customer1","father_name":"fcustomer","grandfather_name":"gcustomer","action":"send_pre_registration_otp","contact_type":"email","contact_value":"microsoftt333@gmail.com"}
+[20-Dec-2025 23:56:44 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[20-Dec-2025 23:56:44 Europe/Berlin] Pre-registration OTP request: customer1, email: microsoftt333@gmail.com
+[20-Dec-2025 23:57:19 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 23:57:19 Europe/Berlin] POST Data: {"name":"customer1","father_name":"fcustomer","grandfather_name":"gcustomer","action":"send_pre_registration_otp","contact_type":"email","contact_value":"firstlastaby3214@gmail.com"}
+[20-Dec-2025 23:57:19 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[20-Dec-2025 23:57:19 Europe/Berlin] Pre-registration OTP request: customer1, email: firstlastaby3214@gmail.com
+[20-Dec-2025 23:57:20 Europe/Berlin] Generated OTP: 291063 for firstlastaby3214@gmail.com
+[20-Dec-2025 23:57:24 Europe/Berlin] ✅ Pre-registration email sent to: firstlastaby3214@gmail.com
+[20-Dec-2025 23:57:24 Europe/Berlin] Email sent: YES
+[20-Dec-2025 23:57:44 Europe/Berlin] === PreRegistrationController Accessed ===
+[20-Dec-2025 23:57:44 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"firstlastaby3214@gmail.com","otp":"291063"}
+[20-Dec-2025 23:57:44 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[20-Dec-2025 23:57:44 Europe/Berlin] Verify pre-registration OTP: contact=firstlastaby3214@gmail.com
+[21-Dec-2025 00:23:38 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 00:23:38 Europe/Berlin] POST Data: {"name":"abe","father_name":"lebe","grandfather_name":"kebe","action":"send_pre_registration_otp","contact_type":"email","contact_value":"firstlastaby3214@gmail.com"}
+[21-Dec-2025 00:23:38 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 00:23:38 Europe/Berlin] Pre-registration OTP request: abe, email: firstlastaby3214@gmail.com
+[21-Dec-2025 00:26:05 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 00:26:05 Europe/Berlin] POST Data: {"name":"abe","father_name":"lebe","grandfather_name":"kebe","action":"send_pre_registration_otp","contact_type":"email","contact_value":"firstlastaby3214@gmail.com"}
+[21-Dec-2025 00:26:05 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 00:26:05 Europe/Berlin] Pre-registration OTP request: abe, email: firstlastaby3214@gmail.com
+[21-Dec-2025 00:26:50 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 00:26:50 Europe/Berlin] POST Data: {"name":"abe","father_name":"kebe","grandfather_name":"nbe","action":"send_pre_registration_otp","contact_type":"email","contact_value":"firstlastaby3214@gmail.com"}
+[21-Dec-2025 00:26:50 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 00:26:50 Europe/Berlin] Pre-registration OTP request: abe, email: firstlastaby3214@gmail.com
+[21-Dec-2025 00:26:54 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 00:26:54 Europe/Berlin] POST Data: {"name":"abe","father_name":"kebe","grandfather_name":"nbe","action":"send_pre_registration_otp","contact_type":"email","contact_value":"firstlastaby3214@gmail.com"}
+[21-Dec-2025 00:26:54 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 00:26:54 Europe/Berlin] Pre-registration OTP request: abe, email: firstlastaby3214@gmail.com
+[21-Dec-2025 00:27:25 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 00:27:25 Europe/Berlin] POST Data: {"name":"abe","father_name":"kebe","grandfather_name":"nbe","action":"send_pre_registration_otp","contact_type":"email","contact_value":"microsoftt333@gmail.com"}
+[21-Dec-2025 00:27:25 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 00:27:25 Europe/Berlin] Pre-registration OTP request: abe, email: microsoftt333@gmail.com
+[21-Dec-2025 00:30:19 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 00:30:19 Europe/Berlin] POST Data: {"name":"abebe","father_name":"abebe1","grandfather_name":"abebe3","action":"send_pre_registration_otp","contact_type":"email","contact_value":"firstlastaby3214@gmail.com"}
+[21-Dec-2025 00:30:19 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 00:30:19 Europe/Berlin] Pre-registration OTP request: abebe, email: firstlastaby3214@gmail.com
+[21-Dec-2025 00:30:19 Europe/Berlin] Generated OTP: 206618 for firstlastaby3214@gmail.com
+[21-Dec-2025 00:30:25 Europe/Berlin] ✅ Pre-registration email sent to: firstlastaby3214@gmail.com
+[21-Dec-2025 00:30:25 Europe/Berlin] Email sent: YES
+[21-Dec-2025 00:30:41 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 00:30:41 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"firstlastaby3214@gmail.com","otp":"206618"}
+[21-Dec-2025 00:30:41 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[21-Dec-2025 00:30:41 Europe/Berlin] Verify pre-registration OTP: contact=firstlastaby3214@gmail.com
+[21-Dec-2025 00:53:47 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 00:53:47 Europe/Berlin] POST Data: {"name":"qq","father_name":"qq","grandfather_name":"q","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[21-Dec-2025 00:53:47 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 00:53:47 Europe/Berlin] Pre-registration OTP request: qq, phone: 0935714446
+[21-Dec-2025 00:53:47 Europe/Berlin] Generated OTP: 908429 for 0935714446
+[21-Dec-2025 00:53:49 Europe/Berlin] SMS to +251935714446: HTTP 429
+[21-Dec-2025 00:53:49 Europe/Berlin] SMS sent: NO
+[21-Dec-2025 01:02:26 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 01:02:26 Europe/Berlin] POST Data: {"name":"hi","father_name":"hi1","grandfather_name":"hi2","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0983795429"}
+[21-Dec-2025 01:02:26 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 01:02:26 Europe/Berlin] Pre-registration OTP request: hi, phone: 0983795429
+[21-Dec-2025 01:02:26 Europe/Berlin] Generated OTP: 536217 for 0983795429
+[21-Dec-2025 01:02:29 Europe/Berlin] SMS to +251983795429: HTTP 201
+[21-Dec-2025 01:02:29 Europe/Berlin] SMS sent: NO
+[21-Dec-2025 01:12:49 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 01:12:49 Europe/Berlin] POST Data: {"name":"1234","father_name":"5555","grandfather_name":"55","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0983795429"}
+[21-Dec-2025 01:12:49 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 01:12:49 Europe/Berlin] Pre-registration OTP request: 1234, phone: 0983795429
+[21-Dec-2025 01:12:49 Europe/Berlin] Generated OTP: 301222 for 0983795429
+[21-Dec-2025 01:12:52 Europe/Berlin] SMS to +251983795429: HTTP 201
+[21-Dec-2025 01:12:52 Europe/Berlin] SMS sent: NO
+[21-Dec-2025 01:14:36 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 01:14:36 Europe/Berlin] POST Data: {"name":"1234","father_name":"5555","grandfather_name":"55","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"+251983795429"}
+[21-Dec-2025 01:14:36 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 01:14:36 Europe/Berlin] Pre-registration OTP request: 1234, phone: +251983795429
+[21-Dec-2025 01:14:36 Europe/Berlin] Generated OTP: 134803 for +251983795429
+[21-Dec-2025 01:14:38 Europe/Berlin] SMS to +251983795429: HTTP 201
+[21-Dec-2025 01:14:38 Europe/Berlin] SMS sent: NO
+[21-Dec-2025 01:19:10 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 01:19:10 Europe/Berlin] POST Data: {"name":"debe","father_name":"debu ","grandfather_name":"dbi","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0983795429"}
+[21-Dec-2025 01:19:10 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 01:19:10 Europe/Berlin] Pre-registration OTP request: debe, phone: 0983795429
+[21-Dec-2025 01:19:10 Europe/Berlin] Generated OTP: 678139 for 0983795429
+[21-Dec-2025 01:19:12 Europe/Berlin] SMS to +251983795429: HTTP 201, Response: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"69473d007c26d076d53e45ba","recipientCount":1}}
+[21-Dec-2025 01:19:12 Europe/Berlin] SMS sent: YES
+[21-Dec-2025 01:19:40 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 01:19:40 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"0983795429","otp":"678239"}
+[21-Dec-2025 01:19:40 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[21-Dec-2025 01:19:40 Europe/Berlin] Verify pre-registration OTP: contact=0983795429
+[21-Dec-2025 01:20:00 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 01:20:00 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"0983795429","otp":"678139"}
+[21-Dec-2025 01:20:00 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[21-Dec-2025 01:20:00 Europe/Berlin] Verify pre-registration OTP: contact=0983795429
+[21-Dec-2025 01:21:19 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 01:21:19 Europe/Berlin] POST Data: {"name":"12","father_name":"11","grandfather_name":"11","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[21-Dec-2025 01:21:19 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 01:21:19 Europe/Berlin] Pre-registration OTP request: 12, phone: 0935714446
+[21-Dec-2025 01:21:19 Europe/Berlin] Generated OTP: 381947 for 0935714446
+[21-Dec-2025 01:21:22 Europe/Berlin] SMS to +251935714446: HTTP 201, Response: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"69473d817c26d076d53e4e2a","recipientCount":1}}
+[21-Dec-2025 01:21:22 Europe/Berlin] SMS sent: YES
+[21-Dec-2025 01:21:47 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 01:21:47 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"0935714446","otp":"381947"}
+[21-Dec-2025 01:21:47 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[21-Dec-2025 01:21:47 Europe/Berlin] Verify pre-registration OTP: contact=0935714446
+[21-Dec-2025 01:39:00 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 01:39:00 Europe/Berlin] POST Data: {"name":"debe","father_name":"v","grandfather_name":"b","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0983795429"}
+[21-Dec-2025 01:39:00 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 01:39:00 Europe/Berlin] Pre-registration OTP request: debe, phone: 0983795429
+[21-Dec-2025 01:39:00 Europe/Berlin] Generated OTP: 222078 for 0983795429
+[21-Dec-2025 01:39:02 Europe/Berlin] SMS to +251983795429: HTTP 201, Response: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"694741a67c26d076d53e7c02","recipientCount":1}}
+[21-Dec-2025 01:39:02 Europe/Berlin] SMS sent: YES
+[21-Dec-2025 01:39:24 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 01:39:24 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"0983795429","otp":"222078"}
+[21-Dec-2025 01:39:24 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[21-Dec-2025 01:39:24 Europe/Berlin] Verify pre-registration OTP: contact=0983795429
+[21-Dec-2025 02:24:43 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 02:24:43 Europe/Berlin] POST Data: {"name":"abe","father_name":"debe","grandfather_name":"mebe","action":"send_pre_registration_otp","contact_type":"email","contact_value":"ethiopianartinfinite@gmail.com"}
+[21-Dec-2025 02:24:43 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 02:24:43 Europe/Berlin] Pre-registration OTP request: abe, email: ethiopianartinfinite@gmail.com
+[21-Dec-2025 02:24:43 Europe/Berlin] Generated OTP: 519734 for ethiopianartinfinite@gmail.com
+[21-Dec-2025 02:24:49 Europe/Berlin] ✅ Pre-registration email sent to: ethiopianartinfinite@gmail.com
+[21-Dec-2025 02:24:49 Europe/Berlin] Email sent: YES
+[21-Dec-2025 02:25:28 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 02:25:28 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"ethiopianartinfinite@gmail.com","otp":"519734"}
+[21-Dec-2025 02:25:28 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[21-Dec-2025 02:25:28 Europe/Berlin] Verify pre-registration OTP: contact=ethiopianartinfinite@gmail.com
+[21-Dec-2025 10:15:00 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 10:15:00 Europe/Berlin] POST Data: {"name":"customer","father_name":"fcustomer","grandfather_name":"gcustomer","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0983795429"}
+[21-Dec-2025 10:15:00 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 10:15:00 Europe/Berlin] Pre-registration OTP request: customer, phone: 0983795429
+[21-Dec-2025 10:15:00 Europe/Berlin] Generated OTP: 120179 for 0983795429
+[21-Dec-2025 10:15:03 Europe/Berlin] SMS to +251983795429: HTTP 201, Response: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"6947ba977c26d076d544deb3","recipientCount":1}}
+[21-Dec-2025 10:15:03 Europe/Berlin] SMS sent: YES
+[21-Dec-2025 10:15:20 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 10:15:20 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"0983795429","otp":"120179"}
+[21-Dec-2025 10:15:20 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[21-Dec-2025 10:15:20 Europe/Berlin] Verify pre-registration OTP: contact=0983795429
+[21-Dec-2025 12:29:08 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 12:29:08 Europe/Berlin] POST Data: {"name":"nahom","father_name":"abyot ","grandfather_name":"siyum","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[21-Dec-2025 12:29:08 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 12:29:08 Europe/Berlin] Pre-registration OTP request: nahom, phone: 0935714446
+[21-Dec-2025 12:29:08 Europe/Berlin] Generated OTP: 695819 for 0935714446
+[21-Dec-2025 12:29:10 Europe/Berlin] SMS to +251935714446: HTTP 201, Response: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"6947da057c26d076d54654d1","recipientCount":1}}
+[21-Dec-2025 12:29:10 Europe/Berlin] SMS sent: YES
+[21-Dec-2025 12:30:49 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 12:30:49 Europe/Berlin] POST Data: {"name":"nahom","father_name":"abyot ","grandfather_name":"siyum","action":"send_pre_registration_otp","contact_type":"email","contact_value":"microsoftt333@gmail.com"}
+[21-Dec-2025 12:30:49 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 12:30:49 Europe/Berlin] Pre-registration OTP request: nahom, email: microsoftt333@gmail.com
+[21-Dec-2025 12:30:49 Europe/Berlin] Generated OTP: 141600 for microsoftt333@gmail.com
+[21-Dec-2025 12:30:53 Europe/Berlin] ✅ Pre-registration email sent to: microsoftt333@gmail.com
+[21-Dec-2025 12:30:53 Europe/Berlin] Email sent: YES
+[21-Dec-2025 12:31:17 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 12:31:17 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"microsoftt333@gmail.com","otp":"141600"}
+[21-Dec-2025 12:31:17 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[21-Dec-2025 12:31:17 Europe/Berlin] Verify pre-registration OTP: contact=microsoftt333@gmail.com
+[21-Dec-2025 12:42:36 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 12:42:36 Europe/Berlin] POST Data: {"name":"abebe","father_name":"debebe","grandfather_name":"bekele","action":"send_pre_registration_otp","contact_type":"email","contact_value":"microsoftt333@gmail.com"}
+[21-Dec-2025 12:42:36 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 12:42:36 Europe/Berlin] Pre-registration OTP request: abebe, email: microsoftt333@gmail.com
+[21-Dec-2025 12:42:44 Europe/Berlin] === PreRegistrationController Accessed ===
+[21-Dec-2025 12:42:44 Europe/Berlin] POST Data: {"name":"abebe","father_name":"debebe","grandfather_name":"bekele","action":"send_pre_registration_otp","contact_type":"email","contact_value":"microsoftt333@gmail.com"}
+[21-Dec-2025 12:42:44 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[21-Dec-2025 12:42:44 Europe/Berlin] Pre-registration OTP request: abebe, email: microsoftt333@gmail.com
+[22-Dec-2025 11:41:21 Europe/Berlin] === PreRegistrationController Accessed ===
+[22-Dec-2025 11:41:21 Europe/Berlin] POST Data: {"name":"abebe","father_name":"lema","grandfather_name":"leesa","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0946651200"}
+[22-Dec-2025 11:41:21 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[22-Dec-2025 11:41:21 Europe/Berlin] Pre-registration OTP request: abebe, phone: 0946651200
+[22-Dec-2025 11:41:22 Europe/Berlin] Generated OTP: 465031 for 0946651200
+[22-Dec-2025 11:41:25 Europe/Berlin] SMS to +251946651200: HTTP 201, Response: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"6949205419e41c5c933b83fc","recipientCount":1}}
+[22-Dec-2025 11:41:25 Europe/Berlin] SMS sent: YES
+[22-Dec-2025 11:41:56 Europe/Berlin] === PreRegistrationController Accessed ===
+[22-Dec-2025 11:41:56 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"0946651200","otp":"465031"}
+[22-Dec-2025 11:41:56 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[22-Dec-2025 11:41:56 Europe/Berlin] Verify pre-registration OTP: contact=0946651200
+[22-Dec-2025 17:53:20 Europe/Berlin] === PreRegistrationController Accessed ===
+[22-Dec-2025 17:53:20 Europe/Berlin] POST Data: {"name":"naol","father_name":"n","grandfather_name":"v","action":"send_pre_registration_otp","contact_type":"email","contact_value":"naolbekele193@gmail.com"}
+[22-Dec-2025 17:53:20 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[22-Dec-2025 17:53:20 Europe/Berlin] Pre-registration OTP request: naol, email: naolbekele193@gmail.com
+[22-Dec-2025 17:53:20 Europe/Berlin] Generated OTP: 677336 for naolbekele193@gmail.com
+[22-Dec-2025 17:53:25 Europe/Berlin] ✅ Pre-registration email sent to: naolbekele193@gmail.com
+[22-Dec-2025 17:53:25 Europe/Berlin] Email sent: YES
+[22-Dec-2025 18:04:14 Europe/Berlin] === PreRegistrationController Accessed ===
+[22-Dec-2025 18:04:14 Europe/Berlin] POST Data: {"name":"naol","father_name":"n","grandfather_name":"v","action":"send_pre_registration_otp","contact_type":"email","contact_value":"naolbekele193@gmail.com"}
+[22-Dec-2025 18:04:14 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[22-Dec-2025 18:04:14 Europe/Berlin] Pre-registration OTP request: naol, email: naolbekele193@gmail.com
+[22-Dec-2025 18:04:14 Europe/Berlin] Generated OTP: 693562 for naolbekele193@gmail.com
+[22-Dec-2025 18:04:18 Europe/Berlin] ✅ Pre-registration email sent to: naolbekele193@gmail.com
+[22-Dec-2025 18:04:18 Europe/Berlin] Email sent: YES
+[24-Dec-2025 13:23:17 Europe/Berlin] === PreRegistrationController Accessed ===
+[24-Dec-2025 13:23:17 Europe/Berlin] POST Data: {"name":"ramzi","father_name":"moh","grandfather_name":"med","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0929350094"}
+[24-Dec-2025 13:23:17 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[24-Dec-2025 13:23:17 Europe/Berlin] Pre-registration OTP request: ramzi, phone: 0929350094
+[24-Dec-2025 13:23:17 Europe/Berlin] Generated OTP: 879751 for 0929350094
+[24-Dec-2025 13:23:27 Europe/Berlin] SMS Error: Operation timed out after 10016 milliseconds with 0 out of 0 bytes received
+[24-Dec-2025 13:23:27 Europe/Berlin] SMS to +251929350094: HTTP 0, Response: 
+[24-Dec-2025 13:23:27 Europe/Berlin] SMS sent: YES
+[24-Dec-2025 13:24:24 Europe/Berlin] === PreRegistrationController Accessed ===
+[24-Dec-2025 13:24:24 Europe/Berlin] POST Data: {"name":"ram","father_name":"zi","grandfather_name":"qa","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0929350094"}
+[24-Dec-2025 13:24:24 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[24-Dec-2025 13:24:24 Europe/Berlin] Pre-registration OTP request: ram, phone: 0929350094
+[24-Dec-2025 13:24:24 Europe/Berlin] Generated OTP: 457041 for 0929350094
+[24-Dec-2025 13:24:27 Europe/Berlin] SMS to +251929350094: HTTP 201, Response: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"694bdb7beaf21e40b5f61366","recipientCount":1}}
+[24-Dec-2025 13:24:27 Europe/Berlin] SMS sent: YES
+[24-Dec-2025 13:24:48 Europe/Berlin] === PreRegistrationController Accessed ===
+[24-Dec-2025 13:24:48 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"0929350094","otp":"457041"}
+[24-Dec-2025 13:24:48 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[24-Dec-2025 13:24:48 Europe/Berlin] Verify pre-registration OTP: contact=0929350094
+[24-Dec-2025 13:25:37 Europe/Berlin] === PreRegistrationController Accessed ===
+[24-Dec-2025 13:25:37 Europe/Berlin] POST Data: {"name":"v","father_name":"b","grandfather_name":"g","action":"send_pre_registration_otp","contact_type":"email","contact_value":"abinimama94@gmail.com"}
+[24-Dec-2025 13:25:37 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[24-Dec-2025 13:25:37 Europe/Berlin] Pre-registration OTP request: v, email: abinimama94@gmail.com
+[24-Dec-2025 13:25:37 Europe/Berlin] Generated OTP: 126845 for abinimama94@gmail.com
+[24-Dec-2025 13:25:41 Europe/Berlin] ✅ Pre-registration email sent to: abinimama94@gmail.com
+[24-Dec-2025 13:25:41 Europe/Berlin] Email sent: YES
+[24-Dec-2025 13:26:19 Europe/Berlin] === PreRegistrationController Accessed ===
+[24-Dec-2025 13:26:19 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"abinimama94@gmail.com","otp":"126845"}
+[24-Dec-2025 13:26:19 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[24-Dec-2025 13:26:19 Europe/Berlin] Verify pre-registration OTP: contact=abinimama94@gmail.com
+[25-Dec-2025 11:30:27 Europe/Berlin] === PreRegistrationController Accessed ===
+[25-Dec-2025 11:30:27 Europe/Berlin] POST Data: {"name":"yohannes","father_name":"wondimu","grandfather_name":"gtsadik","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0947458830"}
+[25-Dec-2025 11:30:27 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[25-Dec-2025 11:30:27 Europe/Berlin] Pre-registration OTP request: yohannes, phone: 0947458830
+[25-Dec-2025 11:30:28 Europe/Berlin] Generated OTP: 725677 for 0947458830
+[25-Dec-2025 11:30:33 Europe/Berlin] SMS to +251947458830: HTTP 400, Response: {"success":false,"error":"Device does not exist or is not enabled"}
+[25-Dec-2025 11:30:33 Europe/Berlin] SMS sent: YES
+[25-Dec-2025 11:34:39 Europe/Berlin] === PreRegistrationController Accessed ===
+[25-Dec-2025 11:34:39 Europe/Berlin] POST Data: {"name":"yohannes","father_name":"wondimu","grandfather_name":"gtsadik","action":"send_pre_registration_otp","contact_type":"email","contact_value":"jow81917@gmail.com"}
+[25-Dec-2025 11:34:39 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[25-Dec-2025 11:34:39 Europe/Berlin] Pre-registration OTP request: yohannes, email: jow81917@gmail.com
+[25-Dec-2025 11:34:40 Europe/Berlin] Generated OTP: 764187 for jow81917@gmail.com
+[25-Dec-2025 11:34:44 Europe/Berlin] ✅ Pre-registration email sent to: jow81917@gmail.com
+[25-Dec-2025 11:34:44 Europe/Berlin] Email sent: YES
+[25-Dec-2025 11:36:02 Europe/Berlin] === PreRegistrationController Accessed ===
+[25-Dec-2025 11:36:02 Europe/Berlin] POST Data: {"name":"yohannes","father_name":"wondimu","grandfather_name":"gtsadik","action":"send_pre_registration_otp","contact_type":"email","contact_value":"jow81917@gmail.com"}
+[25-Dec-2025 11:36:02 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[25-Dec-2025 11:36:02 Europe/Berlin] Pre-registration OTP request: yohannes, email: jow81917@gmail.com
+[25-Dec-2025 11:36:02 Europe/Berlin] Generated OTP: 381967 for jow81917@gmail.com
+[25-Dec-2025 11:36:05 Europe/Berlin] ✅ Pre-registration email sent to: jow81917@gmail.com
+[25-Dec-2025 11:36:05 Europe/Berlin] Email sent: YES
+[25-Dec-2025 11:36:25 Europe/Berlin] === PreRegistrationController Accessed ===
+[25-Dec-2025 11:36:25 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"jow81917@gmail.com","otp":"764187"}
+[25-Dec-2025 11:36:25 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[25-Dec-2025 11:36:25 Europe/Berlin] Verify pre-registration OTP: contact=jow81917@gmail.com
+[25-Dec-2025 11:36:52 Europe/Berlin] === PreRegistrationController Accessed ===
+[25-Dec-2025 11:36:52 Europe/Berlin] POST Data: {"name":"yohannes","father_name":"wondimu","grandfather_name":"gtsadik","action":"send_pre_registration_otp","contact_type":"email","contact_value":"jow81917@gmail.com"}
+[25-Dec-2025 11:36:52 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[25-Dec-2025 11:36:52 Europe/Berlin] Pre-registration OTP request: yohannes, email: jow81917@gmail.com
+[25-Dec-2025 11:36:52 Europe/Berlin] Generated OTP: 732764 for jow81917@gmail.com
+[25-Dec-2025 11:36:56 Europe/Berlin] ✅ Pre-registration email sent to: jow81917@gmail.com
+[25-Dec-2025 11:36:56 Europe/Berlin] Email sent: YES
+[25-Dec-2025 11:37:15 Europe/Berlin] === PreRegistrationController Accessed ===
+[25-Dec-2025 11:37:15 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"jow81917@gmail.com","otp":"732764"}
+[25-Dec-2025 11:37:15 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[25-Dec-2025 11:37:15 Europe/Berlin] Verify pre-registration OTP: contact=jow81917@gmail.com
+[25-Dec-2025 11:44:23 Europe/Berlin] === PreRegistrationController Accessed ===
+[25-Dec-2025 11:44:23 Europe/Berlin] POST Data: {"name":"yohannes","father_name":"wondimu","grandfather_name":"gtsadik","action":"send_pre_registration_otp","contact_type":"email","contact_value":"jow81917@gmail.com"}
+[25-Dec-2025 11:44:23 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[25-Dec-2025 11:44:23 Europe/Berlin] Pre-registration OTP request: yohannes, email: jow81917@gmail.com
+[25-Dec-2025 11:44:42 Europe/Berlin] === PreRegistrationController Accessed ===
+[25-Dec-2025 11:44:42 Europe/Berlin] POST Data: {"name":"yohannes","father_name":"wondimu","grandfather_name":"gtsadik","action":"send_pre_registration_otp","contact_type":"email","contact_value":"jow819417@gmail.com"}
+[25-Dec-2025 11:44:42 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[25-Dec-2025 11:44:42 Europe/Berlin] Pre-registration OTP request: yohannes, email: jow819417@gmail.com
+[25-Dec-2025 11:44:42 Europe/Berlin] Generated OTP: 173202 for jow819417@gmail.com
+[25-Dec-2025 11:44:46 Europe/Berlin] ✅ Pre-registration email sent to: jow819417@gmail.com
+[25-Dec-2025 11:44:46 Europe/Berlin] Email sent: YES
+[25-Dec-2025 15:06:21 Europe/Berlin] === PreRegistrationController Accessed ===
+[25-Dec-2025 15:06:21 Europe/Berlin] POST Data: {"name":"melaku","father_name":"melesa","grandfather_name":"ararso","action":"send_pre_registration_otp","contact_type":"email","contact_value":"melesamelaku2@gmail.com"}
+[25-Dec-2025 15:06:21 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[25-Dec-2025 15:06:21 Europe/Berlin] Pre-registration OTP request: melaku, email: melesamelaku2@gmail.com
+[25-Dec-2025 15:06:21 Europe/Berlin] Generated OTP: 190624 for melesamelaku2@gmail.com
+[25-Dec-2025 15:06:26 Europe/Berlin] ✅ Pre-registration email sent to: melesamelaku2@gmail.com
+[25-Dec-2025 15:06:26 Europe/Berlin] Email sent: YES
+[25-Dec-2025 15:07:20 Europe/Berlin] === PreRegistrationController Accessed ===
+[25-Dec-2025 15:07:20 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"melesamelaku2@gmail.com","otp":"190624"}
+[25-Dec-2025 15:07:20 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[25-Dec-2025 15:07:20 Europe/Berlin] Verify pre-registration OTP: contact=melesamelaku2@gmail.com
+[26-Dec-2025 01:43:14 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 01:43:14 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0983795429"}
+[26-Dec-2025 01:43:14 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 01:43:14 Europe/Berlin] Pre-registration OTP request: Natnael, phone: 0983795429
+[26-Dec-2025 01:43:14 Europe/Berlin] Generated OTP: 698612 for 0983795429
+[26-Dec-2025 01:43:17 Europe/Berlin] SMS to +251983795429: HTTP 429, Response: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 01:43:17 Europe/Berlin] SMS sent: YES
+[26-Dec-2025 01:44:37 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 01:44:37 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[26-Dec-2025 01:44:37 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 01:44:37 Europe/Berlin] Pre-registration OTP request: Natnael, phone: 0935714446
+[26-Dec-2025 01:44:37 Europe/Berlin] Generated OTP: 864908 for 0935714446
+[26-Dec-2025 01:44:39 Europe/Berlin] SMS to +251935714446: HTTP 429, Response: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 01:44:39 Europe/Berlin] SMS sent: YES
+[26-Dec-2025 01:46:29 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 01:46:29 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"+251935714446"}
+[26-Dec-2025 01:46:29 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 01:46:29 Europe/Berlin] Pre-registration OTP request: Natnael, phone: +251935714446
+[26-Dec-2025 01:46:29 Europe/Berlin] Generated OTP: 887370 for +251935714446
+[26-Dec-2025 01:46:31 Europe/Berlin] SMS to +251935714446: HTTP 429, Response: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 01:46:31 Europe/Berlin] SMS sent: YES
+[26-Dec-2025 01:47:52 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 01:47:52 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[26-Dec-2025 01:47:52 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 01:47:52 Europe/Berlin] Pre-registration OTP request: Natnael, phone: 0935714446
+[26-Dec-2025 01:47:52 Europe/Berlin] Generated OTP: 423448 for 0935714446
+[26-Dec-2025 01:47:54 Europe/Berlin] SMS to +251935714446: HTTP 429, Response: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 01:47:54 Europe/Berlin] SMS sent: YES
+[26-Dec-2025 01:50:00 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 01:50:00 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"email","contact_value":"chipchips145@gmail.com"}
+[26-Dec-2025 01:50:00 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 01:50:00 Europe/Berlin] Pre-registration OTP request: Natnael, email: chipchips145@gmail.com
+[26-Dec-2025 01:50:00 Europe/Berlin] Generated OTP: 700893 for chipchips145@gmail.com
+[26-Dec-2025 01:50:03 Europe/Berlin] ✅ Pre-registration email sent to: chipchips145@gmail.com
+[26-Dec-2025 01:50:03 Europe/Berlin] Email sent: YES
+[26-Dec-2025 01:50:24 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 01:50:24 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"chipchips145@gmail.com","otp":"700893"}
+[26-Dec-2025 01:50:24 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[26-Dec-2025 01:50:24 Europe/Berlin] Verify pre-registration OTP: contact=chipchips145@gmail.com
+[26-Dec-2025 01:54:27 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 01:54:27 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"abc","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[26-Dec-2025 01:54:27 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 01:54:27 Europe/Berlin] Pre-registration OTP request: Natnael, phone: 0935714446
+[26-Dec-2025 01:54:27 Europe/Berlin] Generated OTP: 609796 for 0935714446
+[26-Dec-2025 01:54:29 Europe/Berlin] SMS to +251935714446: HTTP 429, Response: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 01:54:29 Europe/Berlin] SMS sent: YES
+[26-Dec-2025 01:56:33 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 01:56:33 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"abc","action":"send_pre_registration_otp","contact_type":"email","contact_value":"chipchips145@gmail.com"}
+[26-Dec-2025 01:56:33 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 01:56:33 Europe/Berlin] Pre-registration OTP request: Natnael, email: chipchips145@gmail.com
+[26-Dec-2025 01:56:37 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 01:56:37 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"abc","action":"send_pre_registration_otp","contact_type":"email","contact_value":"chipchips145@gmail.com"}
+[26-Dec-2025 01:56:37 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 01:56:37 Europe/Berlin] Pre-registration OTP request: Natnael, email: chipchips145@gmail.com
+[26-Dec-2025 01:57:23 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 01:57:23 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"abc","action":"send_pre_registration_otp","contact_type":"email","contact_value":"firstlastaby3214@gmail.com"}
+[26-Dec-2025 01:57:23 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 01:57:23 Europe/Berlin] Pre-registration OTP request: Natnael, email: firstlastaby3214@gmail.com
+[26-Dec-2025 01:57:24 Europe/Berlin] Generated OTP: 239905 for firstlastaby3214@gmail.com
+[26-Dec-2025 01:57:28 Europe/Berlin] ✅ Pre-registration email sent to: firstlastaby3214@gmail.com
+[26-Dec-2025 01:57:28 Europe/Berlin] Email sent: YES
+[26-Dec-2025 01:57:54 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 01:57:54 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"firstlastaby3214@gmail.com","otp":"239905"}
+[26-Dec-2025 01:57:54 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[26-Dec-2025 01:57:54 Europe/Berlin] Verify pre-registration OTP: contact=firstlastaby3214@gmail.com
+[26-Dec-2025 02:20:09 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 02:20:09 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"abcd","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[26-Dec-2025 02:20:09 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 02:20:09 Europe/Berlin] Pre-registration OTP request: Natnael, phone: 0935714446
+[26-Dec-2025 02:20:09 Europe/Berlin] Generated OTP: 756047 for 0935714446
+[26-Dec-2025 02:20:09 Europe/Berlin] Attempting SMS to normalized phone: +251935714446
+[26-Dec-2025 02:20:09 Europe/Berlin] Sending SMS to: +251935714446 with message: Your Ashreka Pottery verification code is: 756047. Valid for 10 minutes. Do not share this code.
+[26-Dec-2025 02:20:10 Europe/Berlin] SMS API Response - HTTP: 400, Response: {"success":false,"error":"Device does not exist or is not enabled"}
+[26-Dec-2025 02:20:10 Europe/Berlin] ❌ SMS failed - HTTP 400: {"success":false,"error":"Device does not exist or is not enabled"}
+[26-Dec-2025 02:20:10 Europe/Berlin] SMS failed for +251935714446
+[26-Dec-2025 02:20:21 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 02:20:21 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"abcd","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"+251935714446"}
+[26-Dec-2025 02:20:21 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 02:20:21 Europe/Berlin] Pre-registration OTP request: Natnael, phone: +251935714446
+[26-Dec-2025 02:20:37 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 02:20:37 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"abcd","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0983795429"}
+[26-Dec-2025 02:20:37 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 02:20:37 Europe/Berlin] Pre-registration OTP request: Natnael, phone: 0983795429
+[26-Dec-2025 02:20:37 Europe/Berlin] Generated OTP: 514605 for 0983795429
+[26-Dec-2025 02:20:37 Europe/Berlin] Attempting SMS to normalized phone: +251983795429
+[26-Dec-2025 02:20:37 Europe/Berlin] Sending SMS to: +251983795429 with message: Your Ashreka Pottery verification code is: 514605. Valid for 10 minutes. Do not share this code.
+[26-Dec-2025 02:20:38 Europe/Berlin] SMS API Response - HTTP: 400, Response: {"success":false,"error":"Device does not exist or is not enabled"}
+[26-Dec-2025 02:20:38 Europe/Berlin] ❌ SMS failed - HTTP 400: {"success":false,"error":"Device does not exist or is not enabled"}
+[26-Dec-2025 02:20:38 Europe/Berlin] SMS failed for +251983795429
+[26-Dec-2025 02:24:43 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 02:24:43 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"abcd","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"+251983795429"}
+[26-Dec-2025 02:24:43 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 02:24:43 Europe/Berlin] Pre-registration OTP request: Natnael, phone: +251983795429
+[26-Dec-2025 02:24:43 Europe/Berlin] Generated OTP: 281576 for +251983795429
+[26-Dec-2025 02:24:43 Europe/Berlin] Attempting SMS to normalized phone: +251983795429
+[26-Dec-2025 02:24:43 Europe/Berlin] Sending SMS to: +251983795429 with message: Your Ashreka Pottery verification code is: 281576. Valid for 10 minutes. Do not share this code.
+[26-Dec-2025 02:24:44 Europe/Berlin] SMS API Response - HTTP: 400, Response: {"success":false,"error":"Device does not exist or is not enabled"}
+[26-Dec-2025 02:24:44 Europe/Berlin] ❌ SMS failed - HTTP 400: {"success":false,"error":"Device does not exist or is not enabled"}
+[26-Dec-2025 02:24:44 Europe/Berlin] SMS failed for +251983795429
+[26-Dec-2025 02:27:08 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 02:27:08 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"abcd","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"+251983795429"}
+[26-Dec-2025 02:27:08 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 02:27:08 Europe/Berlin] Pre-registration OTP request: Natnael, phone: +251983795429
+[26-Dec-2025 02:27:08 Europe/Berlin] Generated OTP: 477071 for +251983795429
+[26-Dec-2025 02:27:08 Europe/Berlin] Attempting SMS to normalized phone: +251983795429
+[26-Dec-2025 02:27:08 Europe/Berlin] Sending SMS to: +251983795429 with message: Your Ashreka Pottery verification code is: 477071. Valid for 10 minutes. Do not share this code.
+[26-Dec-2025 02:27:10 Europe/Berlin] SMS API Response - HTTP: 429, Response: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 02:27:10 Europe/Berlin] ❌ SMS API Error: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 02:27:10 Europe/Berlin] SMS failed for +251983795429
+[26-Dec-2025 02:27:34 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 02:27:34 Europe/Berlin] POST Data: {"name":"a","father_name":"b","grandfather_name":"c","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0983795429"}
+[26-Dec-2025 02:27:34 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 02:27:34 Europe/Berlin] Pre-registration OTP request: a, phone: 0983795429
+[26-Dec-2025 02:27:34 Europe/Berlin] Generated OTP: 897690 for 0983795429
+[26-Dec-2025 02:27:34 Europe/Berlin] Attempting SMS to normalized phone: +251983795429
+[26-Dec-2025 02:27:34 Europe/Berlin] Sending SMS to: +251983795429 with message: Your Ashreka Pottery verification code is: 897690. Valid for 10 minutes. Do not share this code.
+[26-Dec-2025 02:27:36 Europe/Berlin] SMS API Response - HTTP: 429, Response: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 02:27:36 Europe/Berlin] ❌ SMS API Error: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 02:27:36 Europe/Berlin] SMS failed for +251983795429
+[26-Dec-2025 07:47:08 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 07:47:08 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[26-Dec-2025 07:47:08 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 07:47:08 Europe/Berlin] Pre-registration OTP request: Natnael, phone: 0935714446
+[26-Dec-2025 07:47:08 Europe/Berlin] Generated OTP: 581758 for 0935714446
+[26-Dec-2025 07:47:09 Europe/Berlin] Attempting SMS to normalized phone: +251935714446
+[26-Dec-2025 07:47:09 Europe/Berlin] Sending SMS to: +251935714446 with message: Your Ashreka Pottery verification code is: 581758. Valid for 10 minutes. Do not share this code.
+[26-Dec-2025 07:47:11 Europe/Berlin] SMS API Response - HTTP: 429, Response: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 07:47:11 Europe/Berlin] ❌ SMS API Error: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 07:47:11 Europe/Berlin] SMS failed for +251935714446
+[26-Dec-2025 07:48:11 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 07:48:11 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"+251935714446"}
+[26-Dec-2025 07:48:11 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 07:48:11 Europe/Berlin] Pre-registration OTP request: Natnael, phone: +251935714446
+[26-Dec-2025 07:48:15 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 07:48:15 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"+251935714446"}
+[26-Dec-2025 07:48:15 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 07:48:15 Europe/Berlin] Pre-registration OTP request: Natnael, phone: +251935714446
+[26-Dec-2025 08:16:16 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 08:16:17 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[26-Dec-2025 08:16:17 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 08:16:17 Europe/Berlin] Pre-registration OTP request: Natnael, phone: 0935714446
+[26-Dec-2025 08:16:17 Europe/Berlin] Generated OTP: 548987 for 0935714446
+[26-Dec-2025 08:16:17 Europe/Berlin] Attempting SMS to normalized phone: +251935714446
+[26-Dec-2025 08:16:17 Europe/Berlin] Sending SMS to: +251935714446 with message: Your Ashreka Pottery verification code is: 548987. Valid for 10 minutes. Do not share this code.
+[26-Dec-2025 08:16:18 Europe/Berlin] SMS API Response - HTTP: 400, Response: {"success":false,"error":"Device does not exist or is not enabled"}
+[26-Dec-2025 08:16:18 Europe/Berlin] ❌ SMS API Error: {"success":false,"error":"Device does not exist or is not enabled"}
+[26-Dec-2025 08:16:18 Europe/Berlin] SMS failed for +251935714446
+[26-Dec-2025 08:21:37 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 08:21:37 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"+251935714446"}
+[26-Dec-2025 08:21:37 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 08:21:37 Europe/Berlin] Pre-registration OTP request: Natnael, phone: +251935714446
+[26-Dec-2025 08:22:19 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 08:22:19 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"aa","grandfather_name":"bb","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[26-Dec-2025 08:22:19 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 08:22:19 Europe/Berlin] Pre-registration OTP request: Natnael, phone: 0935714446
+[26-Dec-2025 08:22:19 Europe/Berlin] Generated OTP: 268365 for 0935714446
+[26-Dec-2025 08:22:19 Europe/Berlin] Attempting SMS to normalized phone: +251935714446
+[26-Dec-2025 08:22:19 Europe/Berlin] Sending SMS to: +251935714446 with message: Your Ashreka Pottery verification code is: 268365. Valid for 10 minutes. Do not share this code.
+[26-Dec-2025 08:22:26 Europe/Berlin] SMS API Response - HTTP: 429, Response: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 08:22:26 Europe/Berlin] ❌ SMS API Error: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 08:22:26 Europe/Berlin] SMS failed for +251935714446
+[26-Dec-2025 09:27:23 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 09:27:23 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"email","contact_value":"chipchips145@gmail.com"}
+[26-Dec-2025 09:27:23 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 09:27:23 Europe/Berlin] Pre-registration OTP request: Natnael, email: chipchips145@gmail.com
+[26-Dec-2025 09:27:26 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 09:27:26 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"email","contact_value":"chipchips145@gmail.com"}
+[26-Dec-2025 09:27:26 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 09:27:26 Europe/Berlin] Pre-registration OTP request: Natnael, email: chipchips145@gmail.com
+[26-Dec-2025 09:28:13 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 09:28:13 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"email","contact_value":"chipchips145@gmail.com"}
+[26-Dec-2025 09:28:13 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 09:28:13 Europe/Berlin] Pre-registration OTP request: Natnael, email: chipchips145@gmail.com
+[26-Dec-2025 09:29:23 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 09:29:23 Europe/Berlin] POST Data: {"name":"aa","father_name":"aa","grandfather_name":"aa","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0982406034"}
+[26-Dec-2025 09:29:23 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 09:29:23 Europe/Berlin] Pre-registration OTP request: aa, phone: 0982406034
+[26-Dec-2025 09:29:23 Europe/Berlin] Generated OTP: 642117 for 0982406034
+[26-Dec-2025 09:29:23 Europe/Berlin] Attempting SMS to normalized phone: +251982406034
+[26-Dec-2025 09:29:23 Europe/Berlin] Sending SMS to: +251982406034 with message: Your Ashreka Pottery verification code is: 642117. Valid for 10 minutes. Do not share this code.
+[26-Dec-2025 09:29:25 Europe/Berlin] SMS API Response - HTTP: 429, Response: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 09:29:25 Europe/Berlin] ❌ SMS API Error: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 09:29:25 Europe/Berlin] SMS failed for +251982406034
+[26-Dec-2025 09:29:57 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 09:29:57 Europe/Berlin] POST Data: {"name":"aa","father_name":"aa","grandfather_name":"aa","action":"send_pre_registration_otp","contact_type":"email","contact_value":"senazewdu12@gmail.com"}
+[26-Dec-2025 09:29:57 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 09:29:57 Europe/Berlin] Pre-registration OTP request: aa, email: senazewdu12@gmail.com
+[26-Dec-2025 09:29:57 Europe/Berlin] Generated OTP: 530880 for senazewdu12@gmail.com
+[26-Dec-2025 09:30:00 Europe/Berlin] ✅ Pre-registration email sent to: senazewdu12@gmail.com
+[26-Dec-2025 09:30:00 Europe/Berlin] Email sent successfully to senazewdu12@gmail.com
+[26-Dec-2025 09:30:29 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 09:30:29 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"senazewdu12@gmail.com","otp":"530880"}
+[26-Dec-2025 09:30:29 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[26-Dec-2025 09:30:29 Europe/Berlin] Verify pre-registration OTP: contact=senazewdu12@gmail.com
+[26-Dec-2025 12:25:21 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 12:25:21 Europe/Berlin] POST Data: {"name":"Ramzi","father_name":"mohamed","grandfather_name":"ibrahim","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0929350094"}
+[26-Dec-2025 12:25:21 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 12:25:21 Europe/Berlin] Pre-registration OTP request: Ramzi, phone: 0929350094
+[26-Dec-2025 12:25:21 Europe/Berlin] Generated OTP: 726939 for 0929350094
+[26-Dec-2025 12:25:22 Europe/Berlin] Attempting SMS to normalized phone: +251929350094
+[26-Dec-2025 12:25:22 Europe/Berlin] Sending SMS to: +251929350094 with message: Your Ashreka Pottery verification code is: 726939. Valid for 10 minutes. Do not share this code.
+[26-Dec-2025 12:25:25 Europe/Berlin] SMS API Response - HTTP: 429, Response: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 12:25:25 Europe/Berlin] ❌ SMS API Error: {"message":"Daily SMS limit reached — you've used your full daily allocation. 0 messages remain for today. Upgrade to increase your daily capacity or try again tomorrow.","hasReachedLimit":true,"dailyLimit":50,"dailyRemaining":0,"monthlyRemaining":87,"bulkSendLimit":50,"monthlyLimit":300}
+[26-Dec-2025 12:25:25 Europe/Berlin] SMS failed for +251929350094
+[26-Dec-2025 12:25:52 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 12:25:52 Europe/Berlin] POST Data: {"name":"Ramzi","father_name":"mohamed","grandfather_name":"ibrahim","action":"send_pre_registration_otp","contact_type":"email","contact_value":"abinimama94@gmail.com"}
+[26-Dec-2025 12:25:52 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 12:25:52 Europe/Berlin] Pre-registration OTP request: Ramzi, email: abinimama94@gmail.com
+[26-Dec-2025 12:25:52 Europe/Berlin] Generated OTP: 288359 for abinimama94@gmail.com
+[26-Dec-2025 12:25:59 Europe/Berlin] ✅ Pre-registration email sent to: abinimama94@gmail.com
+[26-Dec-2025 12:25:59 Europe/Berlin] Email sent successfully to abinimama94@gmail.com
+[26-Dec-2025 12:26:36 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 12:26:36 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"abinimama94@gmail.com","otp":"288359"}
+[26-Dec-2025 12:26:36 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[26-Dec-2025 12:26:36 Europe/Berlin] Verify pre-registration OTP: contact=abinimama94@gmail.com
+[26-Dec-2025 14:29:52 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 14:29:52 Europe/Berlin] POST Data: {"name":"Ramzi","father_name":"mohamed","grandfather_name":"ibrahim","action":"send_pre_registration_otp","contact_type":"email","contact_value":"abinimama94@gmail.com"}
+[26-Dec-2025 14:29:52 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 14:29:52 Europe/Berlin] Pre-registration OTP request: Ramzi, email: abinimama94@gmail.com
+[26-Dec-2025 14:30:16 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 14:30:16 Europe/Berlin] POST Data: {"name":"Ramzi","father_name":"mohamed","grandfather_name":"ibrahim","action":"send_pre_registration_otp","contact_type":"email","contact_value":"chipchips145@gmail.com"}
+[26-Dec-2025 14:30:16 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 14:30:16 Europe/Berlin] Pre-registration OTP request: Ramzi, email: chipchips145@gmail.com
+[26-Dec-2025 14:30:44 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 14:30:44 Europe/Berlin] POST Data: {"name":"Ramzi","father_name":"mohamed","grandfather_name":"ibrahim","action":"send_pre_registration_otp","contact_type":"email","contact_value":"abini4000@gmail.com"}
+[26-Dec-2025 14:30:44 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[26-Dec-2025 14:30:44 Europe/Berlin] Pre-registration OTP request: Ramzi, email: abini4000@gmail.com
+[26-Dec-2025 14:30:44 Europe/Berlin] Generated OTP: 383317 for abini4000@gmail.com
+[26-Dec-2025 14:30:48 Europe/Berlin] ✅ Pre-registration email sent to: abini4000@gmail.com
+[26-Dec-2025 14:30:48 Europe/Berlin] Email sent successfully to abini4000@gmail.com
+[26-Dec-2025 14:31:05 Europe/Berlin] === PreRegistrationController Accessed ===
+[26-Dec-2025 14:31:05 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"abini4000@gmail.com","otp":"383317"}
+[26-Dec-2025 14:31:05 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[26-Dec-2025 14:31:05 Europe/Berlin] Verify pre-registration OTP: contact=abini4000@gmail.com
+[27-Dec-2025 05:14:36 Europe/Berlin] === PreRegistrationController Accessed ===
+[27-Dec-2025 05:14:36 Europe/Berlin] POST Data: {"name":"v","father_name":"b","grandfather_name":"b","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[27-Dec-2025 05:14:36 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[27-Dec-2025 05:14:36 Europe/Berlin] Pre-registration OTP request: v, phone: 0935714446
+[27-Dec-2025 05:14:36 Europe/Berlin] Generated OTP: 471599 for 0935714446
+[27-Dec-2025 05:14:37 Europe/Berlin] Attempting SMS to normalized phone: +251935714446
+[27-Dec-2025 05:14:37 Europe/Berlin] Sending SMS to: +251935714446 with message: Your Ashreka Pottery verification code is: 471599. Valid for 10 minutes. Do not share this code.
+[27-Dec-2025 05:14:39 Europe/Berlin] SMS API Response - HTTP: 201, Response: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"694f5d2f9c1d25bf8d9f9dd3","recipientCount":1}}
+[27-Dec-2025 05:14:39 Europe/Berlin] ✅ SMS sent successfully to +251935714446
+[27-Dec-2025 05:14:39 Europe/Berlin] SMS sent successfully to +251935714446
+[27-Dec-2025 05:15:00 Europe/Berlin] === PreRegistrationController Accessed ===
+[27-Dec-2025 05:15:00 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"0935714446","otp":"471599"}
+[27-Dec-2025 05:15:00 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[27-Dec-2025 05:15:00 Europe/Berlin] Verify pre-registration OTP: contact=0935714446
+[27-Dec-2025 05:22:07 Europe/Berlin] === PreRegistrationController Accessed ===
+[27-Dec-2025 05:22:07 Europe/Berlin] POST Data: {"name":"a","father_name":"b","grandfather_name":"b","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[27-Dec-2025 05:22:07 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[27-Dec-2025 05:22:07 Europe/Berlin] Pre-registration OTP request: a, phone: 0935714446
+[27-Dec-2025 05:22:08 Europe/Berlin] Generated OTP: 590460 for 0935714446
+[27-Dec-2025 05:22:08 Europe/Berlin] Attempting SMS to normalized phone: +251935714446
+[27-Dec-2025 05:22:08 Europe/Berlin] Sending bilingual SMS to: +251935714446 with message: Your Ashreka Pottery verification code is: 590460. Valid for 10 minutes. Do not share this code.
+የአስረቃ የተክላ ስራ የመረጋገጫ ኮድዎን: 590460 ። ለ 10 ደቂቃ ይጠናል ። ይህንን ኮድ አያቓራኩ።
+[27-Dec-2025 05:22:10 Europe/Berlin] SMS API Response - HTTP: 201, Response: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"694f5ef29c1d25bf8d9fb283","recipientCount":1}}
+[27-Dec-2025 05:22:10 Europe/Berlin] ✅ Bilingual SMS sent successfully to +251935714446
+[27-Dec-2025 05:22:10 Europe/Berlin] SMS sent successfully to +251935714446
+[27-Dec-2025 05:23:04 Europe/Berlin] === PreRegistrationController Accessed ===
+[27-Dec-2025 05:23:04 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"0935714446","otp":"500460"}
+[27-Dec-2025 05:23:04 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[27-Dec-2025 05:23:04 Europe/Berlin] Verify pre-registration OTP: contact=0935714446
+[27-Dec-2025 05:23:15 Europe/Berlin] === PreRegistrationController Accessed ===
+[27-Dec-2025 05:23:15 Europe/Berlin] POST Data: {"name":"a","father_name":"b","grandfather_name":"b","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"+251935714446"}
+[27-Dec-2025 05:23:15 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[27-Dec-2025 05:23:15 Europe/Berlin] Pre-registration OTP request: a, phone: +251935714446
+[27-Dec-2025 05:23:30 Europe/Berlin] === PreRegistrationController Accessed ===
+[27-Dec-2025 05:23:30 Europe/Berlin] POST Data: {"name":"a","father_name":"b","grandfather_name":"b","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"+251983795429"}
+[27-Dec-2025 05:23:30 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[27-Dec-2025 05:23:30 Europe/Berlin] Pre-registration OTP request: a, phone: +251983795429
+[27-Dec-2025 05:23:31 Europe/Berlin] Generated OTP: 415298 for +251983795429
+[27-Dec-2025 05:23:31 Europe/Berlin] Attempting SMS to normalized phone: +251983795429
+[27-Dec-2025 05:23:31 Europe/Berlin] Sending bilingual SMS to: +251983795429 with message: Your Ashreka Pottery verification code is: 415298. Valid for 10 minutes. Do not share this code.
+የአስረቃ የተክላ ስራ የመረጋገጫ ኮድዎን: 415298 ። ለ 10 ደቂቃ ይጠናል ። ይህንን ኮድ አያቓራኩ።
+[27-Dec-2025 05:23:33 Europe/Berlin] SMS API Response - HTTP: 201, Response: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"694f5f459c1d25bf8d9fb55b","recipientCount":1}}
+[27-Dec-2025 05:23:33 Europe/Berlin] ✅ Bilingual SMS sent successfully to +251983795429
+[27-Dec-2025 05:23:33 Europe/Berlin] SMS sent successfully to +251983795429
+[27-Dec-2025 05:23:49 Europe/Berlin] === PreRegistrationController Accessed ===
+[27-Dec-2025 05:23:49 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"+251983795429","otp":"415298"}
+[27-Dec-2025 05:23:49 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[27-Dec-2025 05:23:49 Europe/Berlin] Verify pre-registration OTP: contact=+251983795429
+[27-Dec-2025 06:58:35 Europe/Berlin] === PreRegistrationController Accessed ===
+[27-Dec-2025 06:58:35 Europe/Berlin] POST Data: {"name":"abebe","father_name":"lema","grandfather_name":"kebede","action":"send_pre_registration_otp","contact_type":"phone","contact_value":"0935714446"}
+[27-Dec-2025 06:58:35 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[27-Dec-2025 06:58:35 Europe/Berlin] Pre-registration OTP request: abebe, phone: 0935714446
+[27-Dec-2025 06:58:35 Europe/Berlin] Generated OTP: 657578 for 0935714446
+[27-Dec-2025 06:58:35 Europe/Berlin] Attempting SMS to normalized phone: +251935714446
+[27-Dec-2025 06:58:35 Europe/Berlin] Sending bilingual SMS to: +251935714446 with message: Your Ashreka Pottery verification code is: 657578. Valid for 10 minutes. Do not share this code.
+የአስረቃ የተክላ ስራ የመረጋገጫ ኮድዎን: 657578 ። ለ 10 ደቂቃ ይጠናል ። ይህንን ኮድ አያቓራኩ።
+[27-Dec-2025 06:58:37 Europe/Berlin] SMS API Response - HTTP: 201, Response: {"data":{"success":true,"message":"SMS added to queue for processing","smsBatchId":"694f758d9c1d25bf8da0d87e","recipientCount":1}}
+[27-Dec-2025 06:58:37 Europe/Berlin] ✅ Bilingual SMS sent successfully to +251935714446
+[27-Dec-2025 06:58:37 Europe/Berlin] SMS sent successfully to +251935714446
+[27-Dec-2025 06:59:07 Europe/Berlin] === PreRegistrationController Accessed ===
+[27-Dec-2025 06:59:07 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"0935714446","otp":"657578"}
+[27-Dec-2025 06:59:07 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[27-Dec-2025 06:59:07 Europe/Berlin] Verify pre-registration OTP: contact=0935714446
+[27-Dec-2025 08:24:13 Europe/Berlin] === PreRegistrationController Accessed ===
+[27-Dec-2025 08:24:13 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"email","contact_value":"chipchips145@gmail.com"}
+[27-Dec-2025 08:24:13 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[27-Dec-2025 08:24:13 Europe/Berlin] Pre-registration OTP request: Natnael, email: chipchips145@gmail.com
+[27-Dec-2025 09:09:40 Europe/Berlin] === PreRegistrationController Accessed ===
+[27-Dec-2025 09:09:40 Europe/Berlin] POST Data: {"name":"Natnael","father_name":"Abyot","grandfather_name":"Siyum","action":"send_pre_registration_otp","contact_type":"email","contact_value":"firstlastaby3214@gmail.com"}
+[27-Dec-2025 09:09:40 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[27-Dec-2025 09:09:40 Europe/Berlin] Pre-registration OTP request: Natnael, email: firstlastaby3214@gmail.com
+[27-Dec-2025 09:09:40 Europe/Berlin] Generated OTP: 860621 for firstlastaby3214@gmail.com
+[27-Dec-2025 09:09:44 Europe/Berlin] ✅ Pre-registration email sent to: firstlastaby3214@gmail.com
+[27-Dec-2025 09:09:44 Europe/Berlin] Email sent successfully to firstlastaby3214@gmail.com
+[27-Dec-2025 09:10:13 Europe/Berlin] === PreRegistrationController Accessed ===
+[27-Dec-2025 09:10:13 Europe/Berlin] POST Data: {"action":"verify_pre_registration_otp","contact_value":"firstlastaby3214@gmail.com","otp":"860621"}
+[27-Dec-2025 09:10:13 Europe/Berlin] PreRegistrationController action: verify_pre_registration_otp
+[27-Dec-2025 09:10:13 Europe/Berlin] Verify pre-registration OTP: contact=firstlastaby3214@gmail.com
+[28-Dec-2025 14:40:36 Europe/Berlin] === PreRegistrationController Accessed ===
+[28-Dec-2025 14:40:36 Europe/Berlin] POST Data: {"name":"Ramzi","father_name":"Mohammed","grandfather_name":"Ibrahim","action":"send_pre_registration_otp","contact_type":"email","contact_value":"abinimama94@gmail.com"}
+[28-Dec-2025 14:40:36 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[28-Dec-2025 14:40:36 Europe/Berlin] Pre-registration OTP request: Ramzi, email: abinimama94@gmail.com
+[28-Dec-2025 14:40:36 Europe/Berlin] Generated OTP: 207203 for abinimama94@gmail.com
+[28-Dec-2025 14:40:38 Europe/Berlin] ❌ Pre-registration email failed for abinimama94@gmail.com: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[28-Dec-2025 14:40:38 Europe/Berlin] PHPMailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server
+[28-Dec-2025 14:40:38 Europe/Berlin] Email failed for abinimama94@gmail.com
+[28-Dec-2025 14:40:52 Europe/Berlin] === PreRegistrationController Accessed ===
+[28-Dec-2025 14:40:52 Europe/Berlin] POST Data: {"name":"Ramzi","father_name":"Mohammed","grandfather_name":"Ibrahim","action":"send_pre_registration_otp","contact_type":"email","contact_value":"abinimama94@gmail.com"}
+[28-Dec-2025 14:40:52 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[28-Dec-2025 14:40:52 Europe/Berlin] Pre-registration OTP request: Ramzi, email: abinimama94@gmail.com
+[28-Dec-2025 14:40:53 Europe/Berlin] Generated OTP: 768236 for abinimama94@gmail.com
+[28-Dec-2025 14:40:54 Europe/Berlin] ❌ Pre-registration email failed for abinimama94@gmail.com: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[28-Dec-2025 14:40:54 Europe/Berlin] PHPMailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server
+[28-Dec-2025 14:40:54 Europe/Berlin] Email failed for abinimama94@gmail.com
+[28-Dec-2025 14:49:43 Europe/Berlin] === PreRegistrationController Accessed ===
+[28-Dec-2025 14:49:43 Europe/Berlin] POST Data: {"name":"Ramzi","father_name":"Mohammed","grandfather_name":"Ibrahim","action":"send_pre_registration_otp","contact_type":"email","contact_value":"abinimama94@gmail.com"}
+[28-Dec-2025 14:49:43 Europe/Berlin] PreRegistrationController action: send_pre_registration_otp
+[28-Dec-2025 14:49:43 Europe/Berlin] Pre-registration OTP request: Ramzi, email: abinimama94@gmail.com
+[28-Dec-2025 14:49:43 Europe/Berlin] Generated OTP: 596386 for abinimama94@gmail.com
+[28-Dec-2025 14:49:44 Europe/Berlin] ❌ Pre-registration email failed for abinimama94@gmail.com: SMTP Error: Could not connect to SMTP host. Failed to connect to server
+[28-Dec-2025 14:49:44 Europe/Berlin] PHPMailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to server SMTP server error: Failed to connect to server
+[28-Dec-2025 14:49:44 Europe/Berlin] Email failed for abinimama94@gmail.com
